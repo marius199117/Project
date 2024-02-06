@@ -6,6 +6,7 @@ Testing Project to automate the testing project steps.
 - src/main/java/UI/common/CommonDefinitions -> here we have commonly used functions
 - src/main/java/UI/steps -> here are the steps for every using page objects to represent web pages and their elements as objects in the code
 - src/test/java/UI_Test_Cases -> test class where are tests are defined and can be run from here
+- pom.xml -> there we have all the dependencies for the project
 
 ## Usage and run tests
 You can run the tests using the following method:
