@@ -1,0 +1,5 @@
+# Maven specific
+target/
+
+### IntelliJ IDEA ###
+.idea
