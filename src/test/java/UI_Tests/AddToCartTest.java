@@ -21,7 +21,6 @@ public class AddToCartTest extends CommonDefinitions {
         driver = new ChromeDriver();
         driver.get("https://magento.softwaretestingboard.com");
         driver.manage().deleteAllCookies();
-        driver.manage().deleteAllCookies();
         driver.manage().window().maximize();
     }
 
